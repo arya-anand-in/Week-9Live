@@ -1,0 +1,43 @@
+body{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: papayawhip;
+    }
+    ​
+    .container{
+    border: 5px solid black;
+    box-shadow: cornflowerblue;
+    border-radius: 20px;
+    width: 500px;
+    margin-left: 30%;
+    margin-top: 2%;
+    padding: 100px;
+    background: pink;
+    }
+    ​
+    input{
+    width: 400px;
+    height: 30px;
+    font-size: 20px;
+    }
+    ​
+    label{
+    font-size: 25px;
+    }
+    ​
+    h1{
+    color: darkblue;
+    }
+    ​
+    button{
+    width: 150px;
+    height: 40px;
+    font-size: 20px;
+    border-radius: 20px;
+    background-color: khaki;
+    }
+    ​
+    #start{
+    margin-top: 350px;
+    }
+    
